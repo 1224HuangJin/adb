@@ -8,7 +8,7 @@
 wget https://raw.githubusercontent.com/1224HuangJin/adb/refs/heads/main/adb.sh
 ```
 
-并且运行：
+随后运行：
 ``` sh
 . adb.sh
 ```

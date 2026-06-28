@@ -54,4 +54,7 @@ echo ""
 
 echo -e "请使用以下命令以安装 APK："
 echo -e "  \033[0;35madb install\033[0m \033[0;32m<包名>.apk\033[0m"
-echo -e "  例如：\033[0;36madb install \"MyApp.apk\"\033[0m"
+echo -e " 例如：\033[0;36madb install \"MyApp.apk\"\033[0m"
+echo""
+echo "您可以安装(ls)："
+ls
